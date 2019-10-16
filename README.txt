@@ -7,3 +7,4 @@ Now there will be two sections divided, each containing path. Click each of them
 Click New -> Paste the path of  this "face-api.js-master" file. -> Click OK.
 
 Now just run the index.html...........Enjoy
+
