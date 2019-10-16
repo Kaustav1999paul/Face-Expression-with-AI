@@ -6,5 +6,6 @@ Click on "Environmental Variable" button on the appeared dialogue box.
 Now there will be two sections divided, each containing path. Click each of them and press Edit.
 Click New -> Paste the path of  this "face-api.js-master" file. -> Click OK.
 
+
 Now just run the index.html...........Enjoy
 
